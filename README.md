@@ -12,4 +12,4 @@ I spearhead the development and formalization of technical standards for **Autom
 ## 🔗 Professional Links
 - **Technical Standard:** [AMMG Repository](https://github.com/bleemystery/AMMG-Technical-Standard)
 - **Organization:** [Mystery Enterprises](https://mysteryenterprises.com/ammg)
-- **Verified Researcher ID:** [ORCID iD](https://orcid.org/XXXX-XXXX-XXXX-XXXX) *(Replace with your 16-digit ID)*
+- **Verified Researcher ID:** [ORCID iD](https://orcid.org/0009-0001-5265-1898)

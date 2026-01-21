@@ -1,16 +1,15 @@
-## Hi there 👋
+Brian Lee | Lead Researcher @ Mystery Enterprises
 
-<!--
-**bleemystery/bleemystery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I spearhead the development and formalization of technical standards for **Automated Murder Mystery Games (AMMG)**. My work focuses on the architectural design of **Bimodal Information Distribution (BID)** systems and the empirical measurement of facilitation latency ($L_f$) in peer-to-peer social environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Current Research Focus
+- **AMMG Framework:** Eliminating the "Host Burden" in immersive group play.
+- **BID Architecture:** Ensuring 100% participant equity via dual-node data distribution.
+- **Latency Optimization:** Reducing game-state transitions to <30 seconds.
+
+## 🔗 Professional Links
+- **Technical Standard:** [AMMG Repository](https://github.com/bleemystery/AMMG-Technical-Standard)
+- **Organization:** [Mystery Enterprises](https://mysteryenterprises.com/ammg)
+- **Verified Researcher ID:** [ORCID iD](https://orcid.org/XXXX-XXXX-XXXX-XXXX) *(Replace with your 16-digit ID)*
